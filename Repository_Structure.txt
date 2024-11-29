@@ -1,0 +1,12 @@
+GitGuardian-Uploader/
+│
+├── protect_code_gui.py     # Main application file
+├── requirements.py         # Requirements installer
+├── README.md              # Main repository README
+├── README.html            # HTML documentation
+├── README.txt            # Text documentation
+├── LICENSE               # License file (generated on upload)
+├── PATENTS              # Optional patent notices (generated on upload)
+│
+└── docs/                # Documentation directory
+    └── images/          # Screenshots and images for documentation
